@@ -1404,6 +1404,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Compound Interesting](https://compoundinterest.ing/mcp) `https://api.compoundinterest.ing/mcp`
   [![Compound Interesting MCP connector](https://glama.ai/mcp/connectors/ing.compoundinterest/market-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/ing.compoundinterest/market-intelligence)
   🔓 - Insider trades, Congress disclosures and 13F holdings for 4,600+ US stocks; data needs a free key.
+- [Datakoot Base Intel](https://datakoot.com/base-intel) `https://base.datakoot.com/mcp`
+  [![Datakoot Base Intel MCP connector](https://glama.ai/mcp/connectors/com.datakoot/base-onchain-wallet-tokens/badges/score.svg)](https://glama.ai/mcp/connectors/com.datakoot/base-onchain-wallet-tokens)
+  🔓 - Read-only Base network data: ETH and USDC balances, ERC-20 token info, gas price and tx status.
 - [date-firme](https://date-firme.dev-box.ro/llms.txt) `https://date-firme.dev-box.ro/mcp`
   [![date-firme MCP connector](https://glama.ai/mcp/connectors/ro.dev-box.date-firme/date-firme/badges/score.svg)](https://glama.ai/mcp/connectors/ro.dev-box.date-firme/date-firme)
   🔓 - Romanian company data (ONRC/ANAF): CUI lookup, financials, KYB risk, CAEN benchmarks, B2B leads; x402 USDC.
